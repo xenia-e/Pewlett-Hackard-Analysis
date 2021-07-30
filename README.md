@@ -8,10 +8,15 @@ This assignment consists of two technical analysis deliverables and a written re
 
 __Deliverable 1:__ [The Number of Retiring Employees by Title](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
+Additional files:
+  - [The Unique Titles table in CSV file](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
+  - [The Retiring Titles table in CSV file](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
 __Deliverable 2:__ [The Employees Eligible for the Mentorship Program](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 __Deliverable 3:__ A written report on the employee database analysis ([README.md](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/README.md))
 
+All used queries saved in [Employee_Database_challenge.sql](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) file.
 
 # Results
 
