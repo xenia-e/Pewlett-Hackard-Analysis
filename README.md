@@ -3,9 +3,13 @@
 Using provided SQL data we need to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. Then, export all data to CSV files for further use.
 
 ##Deliverables
+
 This assignment consists of two technical analysis deliverables and a written report:
+
 __Deliverable 1:__ [The Number of Retiring Employees by Title](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
 __Deliverable 2:__ [The Employees Eligible for the Mentorship Program](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+
 __Deliverable 3:__ A written report on the employee database analysis ([README.md](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/README.md))
 
 
