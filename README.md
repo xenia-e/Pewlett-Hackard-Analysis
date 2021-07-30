@@ -27,7 +27,7 @@ FROM retiring_titles as rt;
 SELECT COUNT(me.emp_no)
 FROM mentorship_eligibility as me;
 ```
-3. To understand the situation with mentors and retiring employees clearer I suggest  comparing data on mentor count and retiring titles count to analyze it side by side.
+3. To understand the situation with mentors and retiring employees clearer I suggest  comparing data on mentor count and retiring titles count to analyze it side by side.  (It is essential to use LEFT JOIN in the second query. This will allow us to see that some retiring titles have no eligible mentors)
 
 ```
 -- COUNT THE NUMBER OF ELIGIBLE MENTORS FOR EACH TITLE
