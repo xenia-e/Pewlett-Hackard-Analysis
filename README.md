@@ -45,7 +45,7 @@ ORDER BY rt.count DESC;
 
 ```
 Using provided earlier two queries we combine data into the following table:
-![Comparison table for nubber of retiring titles and eligible mentors by title]()
+![Comparison table for nubber of retiring titles and eligible mentors by title](https://github.com/xenia-e/Pewlett-Hackard-Analysis/blob/main/Data/mentor_to_retiring_counts.png)
 
 #Summary
 As a summary of the performed analysis, we can suggest:
