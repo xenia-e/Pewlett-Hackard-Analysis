@@ -130,11 +130,9 @@ INNER JOIN departments AS d
 	ON (de.dept_no = d.dept_no);
 
 --Sales dept retirees
-SELECT ri.emp_no,
-	ri.first_name,
-	ri.last_name,
+SELECT di.emp_no,
+	di.first_name,
+	di.last_name,
 	di.dept_name
-FROM retirement_info as ri
-INNER JOIN dept_info AS di
-	ON (ri.emp_no = di.emp_no)
+FROM dept_info as di
 WHERE di.dept_name IN ('Sales', 'Development');
